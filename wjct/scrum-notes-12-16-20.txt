@@ -1,0 +1,4 @@
+First weekly scrum homework:
+-research status page alternatives
+-study ssh, ftp, filezilla, sourcetreeapp
+-
